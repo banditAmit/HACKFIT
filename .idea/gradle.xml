@@ -14,6 +14,12 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../Mobile/Android/Tools/gradle/gradle-7.4.2" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
